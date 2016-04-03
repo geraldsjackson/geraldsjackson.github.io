@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Gerald Jackson
 locale:           en_US
 url:
 
@@ -41,13 +41,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Gerald Jackson
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: PhD Candidate, Rhetoric and Communication
+  email: geraldsjackson@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: geraldsjackson
+  facebook: geraldsjackson
   google:
     plus: #username
     analytics:
