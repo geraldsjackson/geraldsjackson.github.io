@@ -1,25 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About Me
+date: 2016-04-29T13:04:04-04:00
+modified:
+excerpt:
+share: false
+tags: []
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature:
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am a fourth year PhD candidate in the [University of South Carolina department of English](http://artsandsciences.sc.edu/engl/graduate-program), specializing in Rhetoric and Composition. I am also completing a certificate in [Women's and Gender Studies](http://artsandsciences.sc.edu/wgst/front-page). I hold degrees in [Rhetoric and Composition with a specialization in composition pedagogy](http://www.siue.edu/artsandsciences/english/graduate/tow/index.shtml) (MA), and English with a minor in Computer Science (BA) from Southern Illinois University
 
-## Minimal Mistakes is all about:
+<br />
+In my dissertation, "Queer Epistemologies: Studies of 
+Computational Performativity in Gendered Network Spaces," I introduce the concept of computational performativity to explore how underlying coding practices of software and digital networks reiterate and propagate cultural norms. Specifically, I trace the movement of gendered practices of programming and knowledge-making through network protocols and software as those practices are proliferated by concealed processes underlying source code.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+<br />
+In addition to my research, I teach courses in first-year composition and professional and technical writing. I have taught courses in research and argumentation and basic writing at both two and four-year institutions. I also served as Assistant Director of First-Year English at the University of South Carolina for two years. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<br />
+I am the co-founder and senior editor of the academic journal, [Itineration: Cross-DIsciplinary Studies in Rhetoric, Media, and Culture](http://tundra.csd.sc.edu/itineration/).

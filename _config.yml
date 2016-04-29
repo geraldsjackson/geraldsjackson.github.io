@@ -43,7 +43,7 @@ titlecase: true
 owner:
   name: Gerald Jackson
   avatar: bio-photo.jpg
-  bio: PhD Candidate, Rhetoric and Communication
+  bio: A fourth year PhD candidate in the department of English specializing in Rhetoric, Communication, and Gender Studies.
   email: geraldsjackson@gmail.com
   disqus-shortname:
   twitter: geraldsjackson
@@ -55,14 +55,14 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: geraldsjackson
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: geraldsjackson
   xing: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
-  pinterest: #username
+  pinterest: geraldsjackson
   foursquare: #username
   steam: #username
   dribbble: #username
@@ -71,6 +71,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  academia: geraldsjackson
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
