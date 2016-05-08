@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-04-29T17:54:50-04:00</updated>
+<updated>2016-05-08T12:34:27-04:00</updated>
 <id>/</id>
 <author>
   <name>Gerald Jackson</name>
@@ -14,9 +14,40 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Dummy Testing Post]]></title>
-  <link rel="alternate" type="text/html" href="/uncategorized/dummy-testing-post/" />
-  <id>/uncategorized/dummy-testing-post</id>
+  <title type="html"><![CDATA[Nathan Stormer, Articulation, and Order as Rhetorical Practice]]></title>
+  <link rel="alternate" type="text/html" href="/research/stormers-articulation/" />
+  <id>/research/stormers-articulation</id>
+  <published>2016-05-08T10:28:19-04:00</published>
+  <updated>2016-05-08T10:28:19-04:00</updated>
+  <author>
+    <name>Gerald Jackson</name>
+    <uri></uri>
+    <email>geraldsjackson@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;&lt;img src=&quot;img/women_articulate.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Until we engage that question and the ideological commitment to (particular) divisions of nature and culture, all attempts to borrow from theories that critique humanism (in the name of making humanistic rhetoric more open to different ways of thinking) will assimilate and domesticate epistemological challenges (258).&lt;/blockquote&gt;
+
+&lt;p style=&quot;text-align: right;&quot;&gt;&quot;Articulation: A Working Paper on Rhetoric and Taxis&quot;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stormer argues that critique of humanist theory is mired within a distinct separation of culture and nature, or more specifically discourse and materiality, which limits how we as cholars can approach new modes of rhetorical investigation. His agenda here is historiographical, in that he seeks to address rhetoric as a performative agency, rather than the product of a necessary human agency. Rhetoric, in this sense, is a product of discursive and material practices (which can be “a space, and image, a canonized activity, or a network of relationships”) rather than an innate human capacity (259). He draws from the Greek &lt;em&gt;taxis&lt;/em&gt;, the skill of mapping one’s mind into language through the ordering of discursive elements to produce a desired effect in an audience. Stormer uses this to discuss &lt;em&gt;articulation&lt;/em&gt; as a relational term: a point of articulation is the point that joins multiple  possibilities or entities, that delimits “a range of motions or possible actions” and that “defines parameters for enactment” (264). Order, &lt;em&gt;taxis&lt;/em&gt;, is refigured here not as the production of order by a human agency, but the agential capacity of order itself to express possibilities for different rhetorics. “Rhetorics” here is plural precisely because, with different material-discursive configurations, we see the production of different rhetorics from different arrangements or orders. Articulation, as the rhetorical work of order, is the production of discourse, languages, bodies, and space. Stormer argues that the study of order, “the historical rules whereby something separates from act and becomes text” is the study of articulation as an “posthumanistic historiographical perspective” (276). Where does the “text” that we analyze become a text separate from the production of rhetorical possibility that begat it? How does order, as a foundation for rhetoric, function rhetorically? What does this implicate when we think about bodies and discourses as performative?&lt;/p&gt;
+
+&lt;blockquote&gt;As defined here, articulation places agency in networks; it makes rhetoric a historically contingent phenomenon (275).&lt;/blockquote&gt;
+
+&lt;p&gt;My understanding, then, is that order is not a given within a system: there is no inevitability with order. Instead, order is performative, but the nature of that performativity is rooted in the order itself as a recursive process of networks (re)iterating their structure through performing bodies and discourses. The application of such a realization, I think, has pretty wide-reaching implications for the study of performativity (and Stormer touches on gender performativity here) and the performativity of technology. In a world of technology rooted in structure and code, articulation offers us new ways to think about how digital media in particular functions rhetorically to reiterate values and practices that may not, on their surface, be recognized as such. In the above image, the word “articulate” is an adjective, denoting the (obviously gendered) notion of what it means to “be” articulate: to make sense in an orderly fashion. But a switch to the verb “articulate” shifts the understanding of the word not as a quality (good at communicating, good and recognizing order and leveraging it) but as a production of order through performance. The latter suggests the performativity Stormer describes, as it would locate within a network of practices the very question of what it means to &lt;em&gt;be articulate&lt;/em&gt;. Further, it offers a chance to think about &lt;em&gt;how to articulate&lt;/em&gt;, not as a human speaker but as a performative rhetorical structure–which, as a goal of Stormer’s, de-centers human agency as the focal point of rhetorical theory and history. Therefore, questions of gender performativity &lt;em&gt;in&lt;/em&gt; media, or structural race &lt;em&gt;in&lt;/em&gt; media, does not require recourse to a speaking subject for validity. Instead, practices can be traced through media structures.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/research/stormers-articulation/&quot;&gt;Nathan Stormer, Articulation, and Order as Rhetorical Practice&lt;/a&gt; was originally published by Gerald Jackson at &lt;a href=&quot;&quot;&gt;Gerald Jackson&lt;/a&gt; on May 08, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Liquid Feedback and Coding Democracy]]></title>
+  <link rel="alternate" type="text/html" href="/software/first-post/" />
+  <id>/software/first-post</id>
   <published>2016-04-29T13:30:59-04:00</published>
   <updated>2016-04-29T13:30:59-04:00</updated>
   <author>
@@ -25,189 +56,36 @@
     <email>geraldsjackson@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;Testing content for dummy post.&lt;/p&gt;
+    &lt;p&gt;David Budde &lt;a href=&quot;https://www.opendemocracy.net/david-budde/all-politics-swarm-intelligence-and-subterranean-politics-in-germany&quot;&gt;&lt;font color=&quot;blue&quot;&gt;discusses how the concept of swarm intelligence is reframing Eurpoean politics&lt;/font&gt;&lt;/a&gt;, using the Pirate Party as an exmaple of such political work.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/uncategorized/dummy-testing-post/&quot;&gt;Dummy Testing Post&lt;/a&gt; was originally published by Gerald Jackson at &lt;a href=&quot;&quot;&gt;Gerald Jackson&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
+&lt;p&gt;Apparently, the Pirate Party uses a platform called “Liquid Feedback” (aka, &lt;a href=&quot;http://liquidfeedback.org/&quot;&gt;&lt;font color=&quot;blue&quot;&gt;The Democracy Software&lt;/font&gt;&lt;/a&gt;) to perform a new politics. Budde writes that “The Pirate Party does not stand for certain policies, but for a new way of doing politics that challenges established notions of parliamentary democracy.”&lt;/p&gt;
+
+&lt;p&gt;Can we equate a swarm intelligence, framed as a political performance, with democracy? It seems to be radically distributed, in that the party does not vote on any particular issue, but on the issues voted on by users of their Liquid Feedback platorm. But, otherwise, while this is seemingly a move towards radical participation, it also demonstrates a concern in how we produce a democratic practice in software. Is that possible? What does it mean to “code” a democracy?&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/software/first-post/&quot;&gt;Liquid Feedback and Coding Democracy&lt;/a&gt; was originally published by Gerald Jackson at &lt;a href=&quot;&quot;&gt;Gerald Jackson&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Sample Post]]></title>
-  <link rel="alternate" type="text/html" href="/sample-post-1.28.38-PM/" />
-  <id>/sample-post 1.28.38 PM</id>
-  <updated>2013-05-31T00:00:00-00:00</updated>
-  <published>2011-03-10T00:00:00-05:00</published>
-  
+  <title type="html"><![CDATA[Composition Map]]></title>
+  <link rel="alternate" type="text/html" href="/research/comp-mamap/" />
+  <id>/research/comp-mamap</id>
+  <published>2013-05-08T12:11:44-04:00</published>
+  <updated>2013-05-08T12:11:44-04:00</updated>
   <author>
     <name>Gerald Jackson</name>
     <uri></uri>
     <email>geraldsjackson@gmail.com</email>
   </author>
   <content type="html">
-    &lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;Overview&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#html-elements&quot; id=&quot;markdown-toc-html-elements&quot;&gt;HTML Elements&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#heading-1&quot; id=&quot;markdown-toc-heading-1&quot;&gt;Heading 1&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#heading-2&quot; id=&quot;markdown-toc-heading-2&quot;&gt;Heading 2&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#heading-3&quot; id=&quot;markdown-toc-heading-3&quot;&gt;Heading 3&lt;/a&gt;            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;#heading-4&quot; id=&quot;markdown-toc-heading-4&quot;&gt;Heading 4&lt;/a&gt;                &lt;ul&gt;
-                  &lt;li&gt;&lt;a href=&quot;#heading-5&quot; id=&quot;markdown-toc-heading-5&quot;&gt;Heading 5&lt;/a&gt;                    &lt;ul&gt;
-                      &lt;li&gt;&lt;a href=&quot;#heading-6&quot; id=&quot;markdown-toc-heading-6&quot;&gt;Heading 6&lt;/a&gt;&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#body-text&quot; id=&quot;markdown-toc-body-text&quot;&gt;Body text&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#blockquotes&quot; id=&quot;markdown-toc-blockquotes&quot;&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#list-types&quot; id=&quot;markdown-toc-list-types&quot;&gt;List Types&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#ordered-lists&quot; id=&quot;markdown-toc-ordered-lists&quot;&gt;Ordered Lists&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#unordered-lists&quot; id=&quot;markdown-toc-unordered-lists&quot;&gt;Unordered Lists&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tables&quot; id=&quot;markdown-toc-tables&quot;&gt;Tables&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#code-snippets&quot; id=&quot;markdown-toc-code-snippets&quot;&gt;Code Snippets&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#buttons&quot; id=&quot;markdown-toc-buttons&quot;&gt;Buttons&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#notices&quot; id=&quot;markdown-toc-notices&quot;&gt;Notices&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+    &lt;p&gt;&lt;a href=&quot;/images/composition.jpeg&quot;&gt;&lt;img src=&quot;/images/composition.jpeg&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
 
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
+&lt;p&gt;So above I’m posting a PDF image of a thought map I created to aid my study for Qualifying Exams this October. It essentially marks some of the major movements of composition, starting with the teaching of speech and composition in English through some contemporary post-process theory.&lt;/p&gt;
 
-&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
+&lt;p&gt;This map is skeletal, obviously, in that I cannot hope to cover the entirety of comp theory in one document (or by myself). however, this is a start, I think, and any suggestions as to the expansion of the map, or the filling of holes in the map, or additional sources for the map, are welcome.&lt;/p&gt;
 
-&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
-
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
-
-&lt;h3 id=&quot;body-text&quot;&gt;Body text&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-
-&lt;p&gt;HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/p&gt;
-
-&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item one
-    &lt;ol&gt;
-      &lt;li&gt;sub item one&lt;/li&gt;
-      &lt;li&gt;sub item two&lt;/li&gt;
-      &lt;li&gt;sub item three&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item two&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Item one&lt;/li&gt;
-  &lt;li&gt;Item two&lt;/li&gt;
-  &lt;li&gt;Item three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;table rules=&quot;groups&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
-
-&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
-
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;/sample-post-1.28.38-PM/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Gerald Jackson at &lt;a href=&quot;&quot;&gt;Gerald Jackson&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/research/comp-mamap/&quot;&gt;Composition Map&lt;/a&gt; was originally published by Gerald Jackson at &lt;a href=&quot;&quot;&gt;Gerald Jackson&lt;/a&gt; on May 08, 2013.&lt;/p&gt;
   </content>
 </entry>
 

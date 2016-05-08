@@ -6,5 +6,6 @@ image:
   feature: sample-image-1.jpg
   credit: Principle Ocean Cables in 1917 by Eric Fisher
   
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: https://www.flickr.com/photos/walkingsf/6858366278
 ---
+

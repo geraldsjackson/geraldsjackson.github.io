@@ -1,0 +1,78 @@
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+size: 11;
+background: url("header.png") no-repeat;
+background-attachment: fixed;
+background-position: right top;
+background-size: 300px 300px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+    color: blue;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+p{
+    margin: 0;
+}
+b{font-size: 110%;}
+em{color: red;}
+
+#maincontainer{
+width: 1000px; /*Width of main container*/
+margin: 0 auto; /*Center container on page*/
+
+}
+
+#topsection{
+height: 90px; /*Height of top section*/
+}
+
+#topsection h1{
+margin: 0;
+padding-top: 15px;
+}
+
+#contentwrapper{
+float: left;
+width: 100%;
+}
+
+#contentcolumn{
+margin-left: 200px; /*Set left margin to LeftColumnWidth*/
+}
+
+#leftcolumn{
+float: left;
+width: 200px; /*Width of left column*/
+margin-left: -1040px; /*Set left margin to -(MainContainerWidth)*/
+font-size: small;
+}
+
+#footer{
+clear: left;
+width: 100%;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+.innertube{
+margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 0;
+}
