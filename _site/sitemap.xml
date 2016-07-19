@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/pedagogy/black-lives-matter/</loc>
+<lastmod>2016-07-14T01:26:52-04:00</lastmod>
+</url>
+<url>
+<loc>/digital/culture/geek-sublime/</loc>
+<lastmod>2016-06-23T12:46:59-04:00</lastmod>
+</url>
+<url>
 <loc>/software/latex-dissertation/</loc>
 <lastmod>2016-06-23T12:46:59-04:00</lastmod>
 </url>
@@ -29,22 +37,22 @@
 <lastmod>2013-05-08T12:11:44-04:00</lastmod>
 </url>
 <url>
+<loc>/teaching/</loc>
+</url>
+<url>
 <loc>/research/</loc>
 </url>
 <url>
 <loc>/cv/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/about/</loc>
 </url>
 <url>
 <loc>/theme-setup/</loc>
 </url>
 <url>
-<loc>/about/</loc>
-</url>
-<url>
-<loc>/teaching/</loc>
+<loc>/</loc>
 </url>
 <url>
 <loc>/teaching/site/assignments.html</loc>
