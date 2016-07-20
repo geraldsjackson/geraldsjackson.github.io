@@ -4,13 +4,39 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-07-19T10:22:38-04:00</updated>
+<updated>2016-07-20T10:13:23-04:00</updated>
 <id>/</id>
 <author>
   <name>Gerald Jackson</name>
   <uri>/</uri>
   <email>geraldsjackson@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Ideology and Software]]></title>
+  <link rel="alternate" type="text/html" href="/academic/software-idology-chun/" />
+  <id>/academic/software-idology-chun</id>
+  <published>2016-07-20T10:00:14-04:00</published>
+  <updated>2016-07-20T10:00:14-04:00</updated>
+  <author>
+    <name>Gerald Jackson</name>
+    <uri></uri>
+    <email>geraldsjackson@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;blockquote&gt;
+
+	&quot;In our so-called postideological society, software sustains and depoliticizes notions of ideology and ideology critique. People may deny ideology, but they don&#39;t deny software--and they attribute to software, metaphorically, greater powers than have been attributed to ideology . . . The notion of softwarehas crept into our critical vocabulary in mostly uninterrogate ways.&quot;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span align=&quot;right&quot;&gt;Wendy Hui Kyong Chun, “On Software, or the Persistance of Visual Knowledge”.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This strikes me as especially relevant when I struggle with how Feminism and Gender Studies, as a theoretical concepts and as a fields of study, have been left to the realm of representational politics in discussions of digital media. Increasingly, the mobilization of discursive studies of code have seemingly situated these studies as optional lenses outside of, or emergent phenomena from, more fundemental, gender-neutral technology. I believe this is a mistake, as we can trace the gendered scientific-militaristic origins of programming to see how practices in engineering are incredibly engendered already, and still continue to propogate in software development.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/academic/software-idology-chun/&quot;&gt;Ideology and Software&lt;/a&gt; was originally published by Gerald Jackson at &lt;a href=&quot;&quot;&gt;Gerald Jackson&lt;/a&gt; on July 20, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
