@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Female Cyborgs, Emotional Appliances, and BBCs Humans
+title: Feminine Machines and Emotional Appliances
 modified:
 categories: Academic
 excerpt:
