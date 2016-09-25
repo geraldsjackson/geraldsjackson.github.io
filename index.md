@@ -1,10 +1,10 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "The web home for rhetoric scholar Gerald Jackson, out of the University of South Carolina."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: sample-image-1.jpg
-  credit: Queer Technologies by Zach Blas
+  credit: Conduct Operations on Gender, Sex, and Robot by Rosalie Yu 
   
 ---
 
