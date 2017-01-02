@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/academic/rhetoric-and-masculinity/</loc>
+<lastmod>2016-10-29T10:00:14-04:00</lastmod>
+</url>
+<url>
 <loc>/academic/humans-halberstam/</loc>
 <lastmod>2016-07-20T10:00:14-04:00</lastmod>
 </url>
@@ -45,22 +49,22 @@
 <lastmod>2013-05-08T12:11:44-04:00</lastmod>
 </url>
 <url>
+<loc>/teaching/</loc>
+</url>
+<url>
 <loc>/research/</loc>
 </url>
 <url>
 <loc>/cv/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/about/</loc>
 </url>
 <url>
 <loc>/theme-setup/</loc>
 </url>
 <url>
-<loc>/about/</loc>
-</url>
-<url>
-<loc>/teaching/</loc>
+<loc>/</loc>
 </url>
 <url>
 <loc>/teaching/site/assignments.html</loc>
