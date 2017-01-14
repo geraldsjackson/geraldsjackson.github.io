@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://geraldsjackson.github.io" resolutions="1x" timestamp="1484426006708">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4529910" ref="index"/>
+    <file name="master_b-master.css" crc="3834826584" ref="courses-taught:cv:bio:current-projects:research-agenda:publications"/>
+    <file name="courses-taught.css" crc="167453189" ref="courses-taught"/>
+    <file name="iefonts_courses-taught.css" crc="4087170425" ref="courses-taught"/>
+    <file name="cv.css" crc="256954771" ref="cv"/>
+    <file name="iefonts_cv.css" crc="4263929642" ref="cv"/>
+    <file name="bio.css" crc="255744949" ref="bio"/>
+    <file name="iefonts_bio.css" crc="3877142514" ref="bio"/>
+    <file name="current-projects.css" crc="439006205" ref="current-projects"/>
+    <file name="iefonts_current-projects.css" crc="4150942099" ref="current-projects"/>
+    <file name="index.css" crc="220897103" ref="index"/>
+    <file name="research-agenda.css" crc="3874055890" ref="research-agenda"/>
+    <file name="iefonts_research-agenda.css" crc="239996267" ref="research-agenda"/>
+    <file name="publications.css" crc="508569435" ref="publications"/>
+    <file name="iefonts_publications.css" crc="220767220" ref="publications"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="museutils.js" crc="4148063285" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="museconfig.js" crc="172512987" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+    <file name="require.js" crc="4159430777" ref="index:bio:research-agenda:publications:current-projects:courses-taught:cv"/>
+  </folder>
+  <folder name="images">
+    <file name="dad_professional.jpg" crc="4023651999" seo="true" ref="index"/>
+    <file name="15874643_10154327588367879_4853023257411800509_o.jpg" crc="4198023823" seo="true" ref="bio"/>
+    <file name="future_projects.jpg" crc="125550627" seo="true" ref="research-agenda"/>
+    <file name="tc_boxpng.jpg" crc="4081831435" seo="true" ref="publications"/>
+    <file name="dm.png" crc="222130857" seo="true" ref="publications"/>
+    <file name="conference-on-college-composition-and-communication-logo-2.jpg" crc="4184927687" seo="true" ref="publications"/>
+    <file name="tux_enhancedsvg-u737.png" crc="164702778" ref="current-projects"/>
+    <file name="courses-taught.jpg" crc="6853121" seo="true" ref="courses-taught"/>
+  </folder>
+  <file name="index.html" crc="428347848" seo="true" mt="1484425536629" redirect="true"/>
+  <file name="bio.html" crc="74732303" seo="true" mt="1484425012160" redirect="true"/>
+  <file name="research-agenda.html" crc="192689297" seo="true" mt="1484425012160" redirect="true"/>
+  <file name="publications.html" crc="377891074" seo="true" mt="1484425916404" redirect="true"/>
+  <file name="current-projects.html" crc="3812471512" seo="true" mt="1484425991439" redirect="true"/>
+  <file name="courses-taught.html" crc="52680555" seo="true" mt="1484425012160" redirect="true"/>
+  <file name="cv.html" crc="202534020" seo="true" mt="1484425012160" redirect="true"/>
+</manifest>
