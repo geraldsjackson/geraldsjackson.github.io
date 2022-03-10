@@ -3,15 +3,15 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/yat.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/yat/_base.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/yat/_layout.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/yat/_dark.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/misc/theme-toggle.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/misc/article-menu.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/misc/common-list.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/misc/google-translate.scss",
-		"../../../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-yat-1.8.0/_sass/misc/gitment.scss"
+		"_sass/yat.scss",
+		"_sass/yat/_base.scss",
+		"_sass/yat/_layout.scss",
+		"_sass/yat/_dark.scss",
+		"_sass/misc/theme-toggle.scss",
+		"_sass/misc/article-menu.scss",
+		"_sass/misc/common-list.scss",
+		"_sass/misc/google-translate.scss",
+		"_sass/misc/gitment.scss"
 	],
 	"sourcesContent": [
 		"// Default theme colors\n$theme-colors: (\n  \"coolblack\": #090a0b,\n  \"spacegrey\": #353535,\n  \"snowwhite\": #ffffff,\n);\n\n// Default brand colors\n$brand-colors: (\n  \"orangered\": #ff5100,\n  \"greatgold\": #f2cb05,\n  \"greenblue\": #389092,\n);\n\n$theme-name: \"\";\n$brand-name: \"\";\n$theme-color: map-get($theme-colors, \"snowwhite\");\n$brand-color: map-get($brand-colors, \"orangered\");\n\n@if map-has-key($theme-colors, $theme-name) {\n  $theme-color: map-get($theme-colors, $theme-name);\n} @else if str-index($theme-name, \"#\") == 1 {\n  $theme-color: #ffffff;\n}\n\n@if map-has-key($brand-colors, $brand-name) {\n  $brand-color: map-get($brand-colors, $brand-name);\n} @else if str-index($brand-name, \"#\") == 1 {\n  $brand-color: #ff5100;\n}\n\n@import \"yat\";\n",
