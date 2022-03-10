@@ -4,6 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+**I AM TRYING SOME BOLD TEXT NOW!!!**
+
 [Link to another page](./another-page.html).
 
 This is some testing text for the sake of ensuring my stuff is working
