@@ -1,3 +1,13 @@
 node_modules/
 .cache/
-public
+public/
+npm-debug.log
+.eslintcache
+.gatsby-context.js
+.idea
+gatsby-starter-lumen.iml
+yarn.lock
+.env
+.env.*
+!.env.template
+*.log
